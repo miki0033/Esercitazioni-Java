@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Acqua",
+      "price": 1,
+      "quantity": 50,
+      "food": true
+    },
+    {
+      "name": "Penna",
+      "price": 0.5,
+      "quantity": 100,
+      "food": false
+    },
+    {
+      "name": "Pane",
+      "price": 2,
+      "quantity": 10,
+      "food": true
+    }
+  ]

@@ -1,0 +1,11 @@
+Exercise 1: Create an Executable JAR
+
+a) Create a new project directory called "ExerciseJAR" Inside the project directory, create a Java source file named "MyFirstProgram.java."
+b) Inside the class created in step a, insert a print statement that takes input from external output.
+c) Compile your Java code from the terminal using the appropriate command.
+d) Execute the code from the command line and ensure that the output matches the expected result.
+
+
+Exercise 2:
+
+Using the JShell, write a command that prints a welcome message. The welcome message should be "Hello! Welcome to the world of Java!"
