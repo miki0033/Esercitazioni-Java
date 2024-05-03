@@ -67,9 +67,11 @@ public class Habitation {
         return floor;
     }
 
-    public List<Feedback> getFeedbacks() {
-        // TODO
-    }
+    /*
+     * public List<Feedback> getFeedbacks() {
+     * // TODO
+     * }
+     */
 
     // SETTER
     public void setDailyprice(double dailyprice) {

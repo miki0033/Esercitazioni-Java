@@ -11,13 +11,14 @@ public class Host extends User {
     public Host(String name, String surname, String email, String address) {
         super(name, surname, email, address);
     }
-
-    public List<Habitation> getHabitations() {
-        // TODO
-    }
+    /*
+     * public List<Habitation> getHabitations() {
+     * // TODO
+     * }
+     */
 
     public int addNreservation() {
-        nreservation++;
+        return nreservation++;
     }
 
     public void addHabitations(List<Habitation> habitations) {
